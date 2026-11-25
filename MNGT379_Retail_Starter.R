@@ -1,9 +1,11 @@
 # MNGT 379 - GitHub Collaboration Relay
 # Keep this script in GitHub; distribute the large CSV separately.
 # Each student adds their assigned section below without deleting prior work.
+setwd("/cloud/project")
 
 # Student 01: load ggplot2
 
+library(ggplot2)
 
 # Student 02: load dplyr
 
