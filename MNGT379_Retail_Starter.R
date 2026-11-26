@@ -8,7 +8,7 @@ setwd("/cloud/project")
 library(ggplot2)
 
 # Student 02: load dplyr
-
+library(dplyr)
 
 # Student 03: import CSV into object named sales
 # Hint: readr::read_csv("MNGT379_Retail_Transactions_1200000.csv", show_col_types = FALSE)
